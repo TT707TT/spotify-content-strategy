@@ -10,6 +10,8 @@ The dataset contains **80,293 Spotify tracks across 114 genres**, each with six
 measured audio characteristics: danceability, energy, valence, acousticness, 
 speechiness, and instrumentalness.
 
+**Source:** https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+
 ## Key Findings
 
 **1. Instrumentalness is the strongest negative predictor of popularity**
